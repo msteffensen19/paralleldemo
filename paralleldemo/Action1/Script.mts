@@ -1,4 +1,5 @@
-﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ script infofile_;_ZIP::ssf1.xml_;_
+﻿'UFT One script to demonstrate Parallel Execution
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("TabletsCategory").Click @@ script infofile_;_ZIP::ssf3.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HOME").Click @@ script infofile_;_ZIP::ssf4.xml_;_
